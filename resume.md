@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Résumé
+title: Resume
+permalink: /resume/
 subtitle: An awesome person
 ---
 

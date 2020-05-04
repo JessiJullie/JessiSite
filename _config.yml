@@ -24,5 +24,3 @@ highlighter: null
 markdown: kramdown
 
 # This will require each of these plugins automatically.
-plugins:
-  - jekyll-gist
