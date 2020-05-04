@@ -3,8 +3,9 @@ title: Jessi Jullie
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/Jessi" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "/JessiSite" # the subpath of your site, e.g. /blog/
+
+# url: "https://knhash.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Jessi Jullie
@@ -21,3 +22,7 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Build settings
 highlighter: null
 markdown: kramdown
+
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-gist
