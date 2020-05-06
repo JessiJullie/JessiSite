@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Customer Relationship Experience: Sample Plan"
+title:  "Customer Relationship Experience: Example Plan"
 subtitle: "The inside of my brain during implementation and rollout"
 date:   2020-02-20 21:21:21 +0530
 categories: categories: ["Technical Account Management"]
