@@ -8,7 +8,7 @@ subtitle: Who is this person
 
 
 ### Technical Account Manager
-6 years of experience running multiple large Enterprise projects concurrently, from introductory orientation of product to ongoing training resources and onto final phases of audits/testing.
+6 years of experience running multiple large Enterprise projects concurrently, from introductory orientation of product to ongoing training resources and onto final phases of audits/testing. My approach with technical account management is a mix of research, education, and ______   
 
 
 ### EDUCATION
