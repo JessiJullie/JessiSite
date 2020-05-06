@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://localhost:4000/customer%20success/2020/05/06/cs-not-cs.html/</loc>
+      
+        <lastmod>2020-05-06T08:51:21-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.7</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/general/2016/05/20/welcome-to-jekyll.html/</loc>
       
         <lastmod>2016-05-20T08:51:21-07:00</lastmod>
@@ -46,21 +61,6 @@
     </url>
     
   
-    
-    <url>
-      <loc>http://localhost:4000/general/2016/05/20/my-example-post.html/</loc>
-      
-        <lastmod>2016-05-20T08:51:21-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.7</priority>
-      
-    </url>
-    
-  
   
     
   
@@ -68,7 +68,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2020-05-06T13:41:00-07:00</lastmod>
+        <lastmod>2020-05-06T13:50:59-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
     <url>
       <loc>http://localhost:4000/blog/</loc>
       
-        <lastmod>2020-05-06T13:41:00-07:00</lastmod>
+        <lastmod>2020-05-06T13:50:59-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2020-05-06T13:41:00-07:00</lastmod>
+        <lastmod>2020-05-06T13:50:59-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -113,7 +113,7 @@
     <url>
       <loc>http://localhost:4000/resume/</loc>
       
-        <lastmod>2020-05-06T13:41:00-07:00</lastmod>
+        <lastmod>2020-05-06T13:50:59-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -132,7 +132,7 @@
     <url>
       <loc>http://localhost:4000/assets/css/style.css</loc>
       
-        <lastmod>2020-05-06T13:41:00-07:00</lastmod>
+        <lastmod>2020-05-06T13:50:59-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
