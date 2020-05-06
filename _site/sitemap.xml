@@ -3,24 +3,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/general/2016/05/20/welcome-to-jekyll.html/</loc>
+      <loc>http://localhost:4000/2020/05/06/2020-02-20-customer-experience-example.html/</loc>
       
-        <lastmod>2016-05-20T08:51:21-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.7</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html/</loc>
-      
-        <lastmod>2016-05-20T08:51:21-07:00</lastmod>
+        <lastmod>2020-05-06T14:33:41-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -33,24 +18,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/misc/2016/05/20/super-long-article.html/</loc>
+      <loc>http://localhost:4000/customer%20success/2020/05/06/cs-not-cs.html/</loc>
       
-        <lastmod>2016-05-20T08:51:21-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.7</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/general/2016/05/20/my-example-post.html/</loc>
-      
-        <lastmod>2016-05-20T08:51:21-07:00</lastmod>
+        <lastmod>2020-05-06T08:51:21-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -68,7 +38,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2020-05-06T14:11:08-07:00</lastmod>
+        <lastmod>2020-05-06T14:33:41-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -83,7 +53,7 @@
     <url>
       <loc>http://localhost:4000/blog/</loc>
       
-        <lastmod>2020-05-06T14:11:08-07:00</lastmod>
+        <lastmod>2020-05-06T14:33:41-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -98,7 +68,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2020-05-06T14:11:08-07:00</lastmod>
+        <lastmod>2020-05-06T14:33:41-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -113,7 +83,7 @@
     <url>
       <loc>http://localhost:4000/resume/</loc>
       
-        <lastmod>2020-05-06T14:11:08-07:00</lastmod>
+        <lastmod>2020-05-06T14:33:41-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -127,12 +97,25 @@
     
   
     
+    <url>
+      <loc>http://localhost:4000/sitemap.xml</loc>
+      
+        <lastmod>2020-05-06T14:33:41-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
   
     
     <url>
       <loc>http://localhost:4000/assets/css/style.css</loc>
       
-        <lastmod>2020-05-06T14:11:08-07:00</lastmod>
+        <lastmod>2020-05-06T14:33:41-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

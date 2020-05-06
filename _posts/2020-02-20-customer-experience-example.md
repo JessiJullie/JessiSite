@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Customer Relationship Experience: Example Plan"
+title: "Customer Relationship Experience: Example Plan"
 subtitle: "The inside of my brain during implementation and rollout"
-date:   2020-02-20 21:21:21 +0530
-categories: categories: ["Technical Account Management"]
+date: 2020-02-20 21:21:21 +0530
+categories: ["Technical Account Management"]
 ---
 
 The following is a scrubbed version of a plan I laid out for another company on how to build customer relationships in the initial product adoption phase.
