@@ -8,7 +8,4 @@ sitemap:
 
 <img src="{{ '/assets/img/jessi_site.png' | prepend: site.baseurl }}" id="about-img">
 
-
-<div id="describe-text">
-	<p>Welcome to my little corner on the internet. I’m a problem-solving, bike-riding, wordsmithing, cat-herding, project-managing, process-creating, fun-having, singing human fascinated by modern software technology and its ever-evolving tools and workflows.</p>
-</div>
+> Welcome to my little corner on the internet. I’m a problem-solving, bike-riding, wordsmithing, cat-herding, project-managing, process-creating, fun-having, singing human fascinated by modern software technology and its ever-evolving tools and workflows.
