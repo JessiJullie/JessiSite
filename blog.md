@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
-subtitle: Select ramblings of jessi_site
+subtitle: Thoughts on Things
 ---
 
 <div>
