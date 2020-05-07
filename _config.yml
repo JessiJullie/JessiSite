@@ -5,7 +5,8 @@ description: >
 
 baseurl: "/Jessi" # the subpath of your site, e.g. /blog/
 
-url: "http://jessijullie.me" # the base hostname & protocol for your site
+# the base hostname & protocol for your site
+# url: "http://jessijullie.me" 
 
 author: Jessi
 fullname: JessiJullie
@@ -31,6 +32,7 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Build settings
 highlighter: null
 markdown: kramdown
+
 kramdown:
 parse_block_html: true
 plugins:
