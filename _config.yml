@@ -5,12 +5,12 @@ description: >
 
 baseurl: "/Jessi" # the subpath of your site, e.g. /blog/
 
-# url: "https://knhash.github.io" # the base hostname & protocol for your site
+url: "http://jessijullie.me" # the base hostname & protocol for your site
 
-author:
+author: Jessi
   fullname: Jessi Jullie
-  github: github
-  linkedin: linkedin
+  github: https://github.com/JessiJullie
+  linkedin: https://www.linkedin.com/in/jessijullie/
   email: jessi.jullie@gmail.com
 
 

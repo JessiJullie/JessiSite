@@ -4,7 +4,7 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
+    background-color: #FFF;}
 
   a {
     color: #57A;
@@ -13,11 +13,14 @@
 
   p, ul, ol, dl {
     font-size: 100%;
-    line-height: 32px; }
+    line-height: 32px;
+    margin-left: 5%;}
 
   img {
     display: block;
-    max-width: 100%; }
+    max-width: 100%;
+    text-align: center;
+    position: relative;}
 
   blockquote {
     letter-spacing: 3px;
@@ -169,11 +172,10 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
-    border-radius: 13%;
     max-width: 400px;
     margin: auto;
-    margin-bottom: 3%;
-  }
+    text-align: center;
+    position: relative;}
 
   #describe-text {
     border-radius: 13%;
