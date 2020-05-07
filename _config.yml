@@ -22,5 +22,11 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Build settings
 highlighter: null
 markdown: kramdown
+kramdown:
+parse_block_html: true
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+future: true
 
 # This will require each of these plugins automatically.
