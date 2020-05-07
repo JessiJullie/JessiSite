@@ -14,7 +14,8 @@
   p, ul, ol, dl {
     font-size: 100%;
     line-height: 32px;
-    margin-left: 5%;}
+    margin-left: 5%;
+    margin-right: 5%;}
 
   img {
     display: block;
@@ -93,7 +94,7 @@
 
 /* =Titles *//*************************************************************/
   .page-title {
-    margin: 30px auto;
+    margin: auto;
     text-align: center; }
 
   .page-title__text {
@@ -174,8 +175,8 @@
   #about-img {
     max-width: 400px;
     margin: auto;
-    text-align: center;
-    position: relative;}
+    margin-left: auto;
+    margin-right: auto;}
 
   #describe-text {
     border-radius: 13%;
