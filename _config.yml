@@ -6,7 +6,9 @@ description: >
 baseurl: "/Jessi" # the subpath of your site, e.g. /blog/
 
 # the base hostname & protocol for your site
-# url: "http://jessijullie.me" 
+# url: "http://jessijullie.me"
+
+
 
 author: Jessi
 fullname: JessiJullie
