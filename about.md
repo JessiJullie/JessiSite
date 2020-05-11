@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /about/
 subtitle: Who is this person
 ---
 
