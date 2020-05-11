@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
 subtitle: Things Done by Me
 ---
 

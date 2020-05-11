@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
 subtitle: Thoughts on Things
 ---
 
