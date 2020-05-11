@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
   body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Arial', 'Helvectica', sans-serif;
     font-size: 100%;
     color: #012;
     background-color: #FFF;}
@@ -12,12 +12,9 @@
     text-decoration: none; }
 
   p, ul, ol, dl {
-    font-family: 'Libre Baskerville', serif;
     font-size: 100%;
     line-height: 32px;
     letter-spacing: 2px;
-    margin-top: 10%;
-    margin-bottom: 10%;
     margin-left: 5%;
     margin-right: 5%;}
 
