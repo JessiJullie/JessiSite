@@ -11,10 +11,10 @@ baseurl: "/Jessi" # the subpath of your site, e.g. /blog/
 
 
 author:
- fullname: JessiJullie
- github: https://github.com/JessiJullie
- linkedin: https://www.linkedin.com/in/jessijullie/
- email: jessi.jullie@gmail.com
+  fullname: JessiJullie
+  github: https://github.com/JessiJullie
+  linkedin: https://www.linkedin.com/in/jessijullie/
+  email: jessi.jullie@gmail.com
 
 
 # Syntax highlighting
