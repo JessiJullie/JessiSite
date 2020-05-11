@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-permalink: /JessiSite/
+permalink: /home/
 subtitle: My name is Jessi
 sitemap:
   priority: 0.9
