@@ -10,7 +10,7 @@ baseurl: "/Jessi" # the subpath of your site, e.g. /blog/
 
 
 
-author: Jessi
+author:
  fullname: JessiJullie
  github: https://github.com/JessiJullie
  linkedin: https://www.linkedin.com/in/jessijullie/
