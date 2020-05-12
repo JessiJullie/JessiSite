@@ -14,10 +14,10 @@
   p, ul, ol, dl {
     font-family: "Times New Roman", Georgia, serif;
     font-size: 100%;
-    font-weight: 600;
+    font-weight: 500;
     font-kerning: auto;
     line-height: 32px;
-    letter-spacing: -1px;
+    letter-spacing: 0px;
     margin-left: 5%;
     margin-right: 5%;}
 
