@@ -1,11 +1,7 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
   body {
-<<<<<<< HEAD
-    font-family: 'Arial', 'Helvectica', sans-serif;
-=======
     font-family: 'Times New Roman', 'Times', serif;
->>>>>>> local
     font-size: 100%;
     color: #012;
     background-color: #FFF;}
