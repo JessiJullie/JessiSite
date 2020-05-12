@@ -44,11 +44,11 @@ company events both locally and at conferences. Reported directly to CEO._
 ---------------
 
 ### San Francisco State University  
-**MASTER OF ARTS, SEXUALITY STUDIES**  <span style="float: right; ">September 2018 - May 2010</span>
+**MASTER OF ARTS, SEXUALITY STUDIES**  <span style="float: right; ">Graduated: May 2010</span>
 <br>Advisor: Colleen Hoff, CRGS Director, Professor of Sexuality Studies<br>
 Thesis: *I Say, They Say, We Say: Sexual Lexicon Commonalities and Dissimilarities*  
 
-**BACHELOR OF ARTS, SOCIOLOGY** <span style="float: right; ">September 2014 - May 2018</span>
+**BACHELOR OF ARTS, SOCIOLOGY** <span style="float: right; ">Graduated: May 2008</span>
 
 ***
 ### NOTABLE PUBLIC SPEAKING
