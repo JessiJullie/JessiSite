@@ -1,6 +1,7 @@
 # Site settings
 title: Jessi Jullie
-description: Jessi Jullie's personal website.
+description: >
+  Jessi Jullie's personal website.
 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
