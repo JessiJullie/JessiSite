@@ -12,7 +12,10 @@
     text-decoration: none; }
 
   p, ul, ol, dl {
+    font-family: "Times New Roman", Georgia, serif;
     font-size: 100%;
+    font-weight: 400;
+    font-kerning: auto;
     line-height: 32px;
     letter-spacing: 2px;
     margin-left: 5%;
@@ -55,7 +58,8 @@
 
 /* =Header *//*************************************************************/
   .header {
-    overflow: hidden;
+    overflow: hidden
+    margin: auto;
    }
 
   .navigation {
