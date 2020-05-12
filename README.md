@@ -1,1 +1,4 @@
-# JessiSite - This was made with Jekyll
+# JessiSite
+built-with: Jekyll
+repo-location: github
+hosting-service: AWS-Amplify

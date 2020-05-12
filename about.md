@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 subtitle: Who is this person
 ---
 
-I’m a customer success professional with years of experience running multiple large Enterprise projects concurrently as a single point of contact, from introductory orientation of product to ongoing training resources and onto final phases of audits/testing. My focus is on PaaS and Saas products for Enterprise and Strategic clients; primarily tools for observability and performance monitoring, feature management, collaborative development, and application performance improvement.
+As a customer success professional with years of experience, I'm skilled at running multiple large Enterprise projects concurrently as a technical point of contact, from introductory orientation of product to ongoing training resources and onto final phases of audits/testing. My focus is on PaaS and Saas products for Enterprise and Strategic clients; primarily tools for observability and performance monitoring, feature management, collaborative development, and application performance improvement.
 
 If it makes developers’ lives easier, I’m interested in it. If it’s a new, cutting edge technology, I want to learn it. If it’s broken, I want to fix it.  
 

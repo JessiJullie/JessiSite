@@ -1,25 +1,23 @@
 ---
 layout: page
 title: Resume
+permalink: /resume/
 subtitle: Things Done by Me
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-## EXPERIENCE
+***
+## EXPERIENCE: LaunchDarkly - Feature Flag SaaS - Oakland, CA
 ---------------
-
-> **LAUNCHDARKLY**  
-> **_Feature Flag SaaS - Oakland, CA_**
 
 **Technical Account Manager**  <span style="float: right; ">August 2018 – September 2019</span>  
 _Created onboarding plans for strategic clients and worked with stakeholders to implement and deliver; Designed customer enablement and implementation programs for all tiers; Developed technical training tracks from core concepts to special topics; Produced all training materials and worked with designers on client-facing assets; Coordinated with internal and external teams to resolve client issues; Acted as a primary technical point of contact for assigned strategic-tier accounts; Created and delivered internal technical trainings on Computer Science, Feature Flags and Git._
 
-
-> **PANTHEON**  
-> **_Web Dev and Hosting PaaS - San Francisco, CA_**
-
+***
+## EXPERIENCE: Pantheon - Drupal and Wordpress WebOps - San Francisco, CA
+---------------
 
 **Enterprise Onboarding Manager**  <span style="float: right; ">January 2014 – July 2018</span>  
 _Technical point of contact for clients, providing post-sales technical account management; Managed all aspects of post-sales engagement, including training and orientation; Provided launch, test and audit support for customers; Maintained an average of a dozen concurrent onboardings at any given time; Developed and maintained relationships with all stakeholders; Coordinated with internal and external teams to resolve client issues; Part of Customer Success Emergency Oncall team._
@@ -34,14 +32,14 @@ office shipments, ran weekly check-ins with staff, produced anonymized reports f
 leadership team on culture improvements, managed travel, planned and executed
 company events both locally and at conferences. Reported directly to CEO._
 
-> **SAN FRANCISCO STATE UNIVERSITY**  
-> **_Sociology Department_**
+***
+## EXPERIENCE: San Francisco State University - Sociology Department - San Francisco, CA
+---------------
 
 **Adjunct Lecturer** <span style="float: right; ">January 2012 – June 2012</span>
 <br>_Created a new syllabus for an upper division sociology course: LGBTQ Cultures and Society (SOC 467/SXS 667); Wrote and delivered all lectures, graded papers, wrote and proctored tests; Organized speaker panels to provide a human face to cultures discussed; Created grading rubric for all assignments._
 
 ***
-
 ## EDUCATION
 ---------------
 
