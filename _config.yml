@@ -28,7 +28,7 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Exclude
 #exclude:
 # - Gemfile
-# - Gemfile.lock
+- Gemfile.lock
 # - node_modules
 # - vendor/bundle/
 # - vendor/cache/
