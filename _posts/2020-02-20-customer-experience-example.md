@@ -6,7 +6,7 @@ date: 2020-02-20 21:21:21 +0530
 categories: ["Technical Account Management"]
 ---
 
-The following is a scrubbed version of a plan I laid out for another company on how to build customer relationships in the initial product adoption phase.
+The following is a scrubbed version of a hypothetical plan I laid out as a test exercise on how to build customer relationships in the initial product adoption phase.
 
 ### General Details
 
