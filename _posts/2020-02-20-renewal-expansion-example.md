@@ -35,7 +35,7 @@ Services will likely outpace employee growth, so focusing on seats is secondary 
 The other consideration is that there is, realistically, an upper cap of users and growth depending on funding rounds. Versayce’s most recent round was a Series C at $100M shortly before the second year contract signing. Unless I have good reason to believe they are aiming to secure a hefty Series D funding round within the next year, the bulk of their hiring expansion is done and services are the primary expansion target. Especially since they are nearly at the limit for users but lagging a bit on utilizing available services.
 
 
-## Process and Timeline for Renewal
+### Process and Timeline for Renewal
 
 Assuming the contract is up for renewal in September 2020 and we are now in mid-February, I propose the following timeline:
 
