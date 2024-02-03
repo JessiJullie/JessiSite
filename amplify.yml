@@ -1,0 +1,17 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - rvm install 3.1.3
+        - rvm use 3.1.3
+        - bundle install
+    build:
+      commands:
+        - bundle exec jekyll build
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: []
