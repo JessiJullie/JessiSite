@@ -5,9 +5,6 @@ permalink: /resume/
 subtitle: Things Done by Me
 ---
 
-<span style="float: right;">
-<a href="{{ 'downloads/JessiJullieResume2024.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
-<br>
 
 ***
 ## EXPERIENCE: Splunk - Observability Platform - San Francisco, CA
