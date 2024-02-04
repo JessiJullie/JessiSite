@@ -63,11 +63,12 @@ company events both locally and at conferences. Reported directly to CEO._
 ---------------
 
 ### San Francisco State University  
-**MASTER OF ARTS** 
+**MASTER OF ARTS, SOCIAL SCIENCES** 
 <br>Advisor: Colleen Hoff, CRGS Director, Professor of Sociology<br>
 Thesis: *I Say, They Say, We Say: Sexual Lexicon Commonalities and Dissimilarities*  
 
 **BACHELOR OF ARTS, SOCIOLOGY** 
+
 ***
 ### NOTABLE PUBLIC SPEAKING
 ---------------
