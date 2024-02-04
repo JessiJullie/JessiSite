@@ -7,7 +7,7 @@ subtitle: Things Done by Me
 
 
 ***
-## EXPERIENCE: Splunk - Observability Platform - San Francisco, CA
+## Splunk - Observability Platform - San Francisco, CA
 ---------------
 
 **Sr. Customer Reliability Engineer**  <span style="float: right; ">2021 – Current</span>  
@@ -26,16 +26,14 @@ _Customer facing technical liaison between internal teams and private realm cust
 - Streamlined access provisioning and acted as single point of contact, replacing a 3 person IT team on top of regular CTAM responsibilities.
 
 ***
-
-***
-## EXPERIENCE: LaunchDarkly - Feature Flag SaaS - Oakland, CA
+## LaunchDarkly - Feature Flag SaaS - Oakland, CA
 ---------------
 
 **Technical Account Manager**  <span style="float: right; ">2018 – 2019</span>  
 _Created onboarding plans for strategic clients and worked with stakeholders to implement and deliver; Designed customer enablement and implementation programs for all tiers; Developed technical training tracks from core concepts to special topics; Produced all training materials and worked with designers on client-facing assets; Coordinated with internal and external teams to resolve client issues; Acted as a primary technical point of contact for assigned strategic-tier accounts; Created and delivered internal technical trainings on Computer Science, Feature Flags and Git._
 
 ***
-## EXPERIENCE: Pantheon - Drupal and Wordpress WebOps - San Francisco, CA
+## Pantheon - Drupal and Wordpress WebOps - San Francisco, CA
 ---------------
 
 **Enterprise Onboarding Manager**  <span style="float: right; ">2014 – 2018</span>  
@@ -52,7 +50,7 @@ leadership team on culture improvements, managed travel, planned and executed
 company events both locally and at conferences. Reported directly to CEO._
 
 ***
-## EXPERIENCE: San Francisco State University - Sociology Department - San Francisco, CA
+## San Francisco State University - Sociology Department - San Francisco, CA
 ---------------
 
 **Adjunct Lecturer** <span style="float: right; ">Spring 2012</span>
