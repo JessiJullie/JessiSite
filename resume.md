@@ -16,7 +16,8 @@ _Customer facing technical liaison for strategic clients, internal technical ena
 - Defined processes for support triaging, incident escalations and capacity scaling timelines while engaging in incident management.
 - Ran enablement program for pre/post sales teams as well as running a sizing/tuning project supporting all O11Y customers.
 - Collaborated on configuration migration tooling project to support larger product initiatives. 
-- Team Award to recognize accomplishments with largest strategic client. • Delivered highly praised internal training to introduce core devs to O11Y.
+- Team Award to recognize accomplishments with largest strategic client. 
+- Delivered highly praised internal training to introduce core devs to O11Y.
 
 **Cloud Technical Account Manager**  <span style="float: right; ">2020 – 2021</span>  
 _Customer facing technical liaison between internal teams and private realm customer with $20M ACV and complex multi-product implementation._
